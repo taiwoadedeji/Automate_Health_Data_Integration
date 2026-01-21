@@ -1,0 +1,1 @@
+“I have provided two data model elements: source and target. Map the source to the target element, where each target element must be matched to one source element. Show all results in one table with headings: SN, target element, source element, and similarity score (ranges from 0 to 1). Only use the attributes provided.”
