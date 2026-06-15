@@ -1,4 +1,4 @@
 # Automate_Health_Data_Integration
 * All source-to-target mapping pairs, prompt and raw input/output files from all LLMs are present in this repository.
-* Unzip the S1_File.zip file to access the data.
+* Unzip the S1_Data.zip file to access the data.
 * The exact prompt is in the "prompt template.txt" file.
